@@ -1,4 +1,6 @@
-<!-- ===================== BANNER ===================== -->
+<!-- ===================================================== -->
+<!--                    PROFILE BANNER                     -->
+<!-- ===================================================== -->
 
 <p align="center">
   <img src="./github-banner.png" alt="Ayman Nasir GitHub Banner" width="100%" />
@@ -32,7 +34,7 @@ I'm open to **internship opportunities** and **project collaborations** where I 
 
 ## 🚀 Current Activities
 
-- 🔭 Currently building and practicing **full-stack web development projects**, while strengthening my frontend and backend development skills through hands-on experience.
+- 🔭 Building and practicing **full-stack web development projects** while strengthening my frontend and backend development skills through hands-on experience.
 - 🌱 Learning **Backend Development, MongoDB, and Express.js** to expand my full-stack development capabilities.
 - 🤖 Exploring **Machine Learning** and its practical applications alongside web development.
 
@@ -43,35 +45,61 @@ I'm open to **internship opportunities** and **project collaborations** where I 
 ## 💻 Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python" alt="HTML, CSS, JavaScript, TypeScript and Python" />
+  <img
+    src="https://skillicons.dev/icons?i=html,css,js,ts,python"
+    alt="HTML, CSS, JavaScript, TypeScript and Python"
+  />
 </p>
 
 ## ⚛️ Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,materialui" alt="React, Next.js, Tailwind CSS, Bootstrap and Material UI" />
+  <img
+    src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,materialui"
+    alt="React, Next.js, Tailwind CSS, Bootstrap and Material UI"
+  />
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/DaisyUI-1AD1A5?style=for-the-badge&logo=daisyui&logoColor=white" alt="DaisyUI" />
+<p align="left">
+  <img
+    src="https://img.shields.io/badge/DaisyUI-1AD1A5?style=for-the-badge&logo=daisyui&logoColor=white"
+    alt="DaisyUI"
+  />
 </p>
 
 ## ⚙️ Backend & Database
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,supabase,firebase,postgres,mysql" alt="Node.js, Supabase, Firebase, PostgreSQL and MySQL" />
+  <img
+    src="https://skillicons.dev/icons?i=nodejs,supabase,firebase,postgres,mysql"
+    alt="Node.js, Supabase, Firebase, PostgreSQL and MySQL"
+  />
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge" alt="REST API" />
-  <img src="https://img.shields.io/badge/Authentication-4A154B?style=for-the-badge" alt="Authentication" />
-  <img src="https://img.shields.io/badge/CRUD-Operations-2496ED?style=for-the-badge" alt="CRUD Operations" />
+<p align="left">
+  <img
+    src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"
+    alt="REST API"
+  />
+
+  <img
+    src="https://img.shields.io/badge/Authentication-4A154B?style=for-the-badge"
+    alt="Authentication"
+  />
+
+  <img
+    src="https://img.shields.io/badge/CRUD_Operations-2496ED?style=for-the-badge"
+    alt="CRUD Operations"
+  />
 </p>
 
 ## 🛠️ Tools & Deployment
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vite,figma,vercel,netlify" alt="Git, GitHub, VS Code, npm, Vite, Figma, Vercel and Netlify" />
+  <img
+    src="https://skillicons.dev/icons?i=git,github,vscode,npm,vite,figma,vercel,netlify"
+    alt="Git, GitHub, VS Code, npm, Vite, Figma, Vercel and Netlify"
+  />
 </p>
 
 ---
@@ -80,26 +108,36 @@ I'm open to **internship opportunities** and **project collaborations** where I 
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🏋️ FitLog
 
-A responsive **workout tracking application** that allows users to explore exercises, view detailed workout information, build personalized workout plans, save exercises, sort workouts, and monitor live workout metrics.
+A responsive workout tracking application for exploring exercises, viewing workout details, creating personalized workout plans, saving exercises, and monitoring workout metrics.
 
-**Key Features**
-- Workout library with detailed exercise information
-- Personalized workout planning
-- Saved workout management
-- Live workout metrics
-- Sorting by duration, calories, and rating
-- Toast notifications and live badges
-- Responsive dark interface
+**Highlights**
+
+- 🏋️ Exercise library
+- 📋 Personalized workout planning
+- ❤️ Saved workouts
+- 📊 Live workout metrics
+- 🔀 Workout sorting
+- 🔔 Interactive notifications
+- 📱 Responsive dark interface
 
 **Tech Stack**
 
 `Next.js` `React` `TypeScript` `Tailwind CSS` `DaisyUI`
 
-[🔗 Live Demo](https://fitlog-eosin-kappa.vercel.app/) • [📂 Repository](https://github.com/Ayman392/Fitlog)
+<br>
+
+<a href="https://fitlog-eosin-kappa.vercel.app/">
+  🔗 Live Demo
+</a>
+&nbsp;•&nbsp;
+<a href="https://github.com/Ayman392/Fitlog">
+  📂 Repository
+</a>
 
 </td>
 
@@ -107,24 +145,34 @@ A responsive **workout tracking application** that allows users to explore exerc
 
 ### 🧱 Dev-Stack
 
-An interactive **React application** for exploring web-development technologies and creating a personalized development stack.
+An interactive React application for exploring web-development technologies and creating a personalized development stack.
 
-**Key Features**
-- Dynamic technology library
-- Personalized stack builder
-- Duplicate selection prevention
-- Add/remove stack functionality
-- Interactive toast notifications
-- Responsive interface
-- JSON-driven technology data
+**Highlights**
+
+- 🔍 Dynamic technology library
+- 🧰 Personalized stack builder
+- 🚫 Duplicate prevention
+- ➕ Add/remove technologies
+- 🔔 Toast notifications
+- 📱 Responsive interface
+- 📄 JSON-driven data
 
 **Tech Stack**
 
-`React` `TypeScript` `Vite` `Tailwind CSS` `DaisyUI` `React Toastify`
+`React` `TypeScript` `Vite` `Tailwind CSS` `DaisyUI`
 
-[🔗 Live Demo](https://devstack404.netlify.app/) • [📂 Repository](https://github.com/Ayman392/Dev-Stack)
+<br>
+
+<a href="https://devstack404.netlify.app/">
+  🔗 Live Demo
+</a>
+&nbsp;•&nbsp;
+<a href="https://github.com/Ayman392/Dev-Stack">
+  📂 Repository
+</a>
 
 </td>
+
 </tr>
 </table>
 
@@ -134,9 +182,17 @@ A **team-developed deep learning image steganography application** that encrypts
 
 **Core Workflow**
 
-`Secret Text` → `Fernet Encryption` → `Binary Payload` → `Neural Encoder` → `Stego Image`
+`Secret Text`
+→ `Fernet Encryption`
+→ `Binary Payload`
+→ `Neural Encoder`
+→ `Stego Image`
 
-`Stego Image` → `Neural Decoder` → `Binary Payload` → `Fernet Decryption` → `Original Text`
+`Stego Image`
+→ `Neural Decoder`
+→ `Binary Payload`
+→ `Fernet Decryption`
+→ `Original Text`
 
 **Tech Stack**
 
@@ -144,7 +200,9 @@ A **team-developed deep learning image steganography application** that encrypts
 
 **Role:** Project Contributor
 
-[📂 View Repository](https://github.com/Ayman392/Steganography)
+<a href="https://github.com/Ayman392/Steganography">
+  📂 View Repository
+</a>
 
 ---
 
@@ -153,15 +211,24 @@ A **team-developed deep learning image steganography application** that encrypts
 <p align="left">
 
 <a href="https://www.linkedin.com/in/aymannasir1/">
-  <img src="https://img.shields.io/badge/LinkedIn-Ayman%20Nasir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Ayman%20Nasir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
 </a>
 
 <a href="mailto:aymannasir101392@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img
+    src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
 </a>
 
 <a href="https://discord.com/users/695926093982466089">
-  <img src="https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  <img
+    src="https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord&logoColor=white"
+    alt="Discord"
+  />
 </a>
 
 </p>
@@ -171,44 +238,53 @@ A **team-developed deep learning image steganography application** that encrypts
 # 📊 GitHub Statistics
 
 <p align="center">
+
   <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=Ayman392&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ayman392&theme=tokyonight"
+    height="180"
     alt="Ayman Nasir GitHub Stats"
   />
 
   <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayman392&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ayman392&theme=tokyonight"
+    height="180"
     alt="Ayman Nasir Top Languages"
   />
+
 </p>
 
 ## 🔥 GitHub Streak
 
 <p align="center">
+
   <img
     src="https://streak-stats.demolab.com?user=Ayman392&theme=tokyonight&hide_border=true"
     alt="Ayman Nasir GitHub Streak"
   />
+
 </p>
 
 ## 📈 Contribution Activity
 
 <p align="center">
+
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Ayman392&theme=tokyo-night&hide_border=true"
-    alt="Ayman Nasir Contribution Graph"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayman392&theme=tokyonight"
+    width="100%"
+    alt="Ayman Nasir GitHub Contribution Activity"
   />
+
 </p>
 
 ---
 
 <p align="center">
+
   <img
     src="https://komarev.com/ghpvc/?username=Ayman392&label=Profile%20Views&color=0e75b6&style=flat"
     alt="Ayman392 Profile Views"
   />
+
 </p>
 
 <p align="center">
