@@ -1,292 +1,148 @@
-<!-- ===================================================== -->
-<!--                    PROFILE BANNER                     -->
-<!-- ===================================================== -->
+<div align="center">
 
-<p align="center">
-  <img src="./github-banner.png" alt="Ayman Nasir GitHub Banner" width="100%" />
-</p>
+# Ayman Nasir
 
-<h1 align="center">Ayman Nasir</h1>
+**Software Engineering Student · Developer · Researcher**
 
-<h3 align="center">
-  Full-Stack Web Developer | Software Engineering Student
-</h3>
+*building things, breaking things, figuring out why.*
 
-<p align="center">
-  <i>Building scalable web applications while exploring Machine Learning.</i>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=1200&color=8B949E&center=true&vCenter=true&width=500&lines=currently+learning+Next.js+%2B+TypeScript;exploring+AI+%26+Data+Science;researching+AI-generated+code+quality" alt="currently working on" />
 
-<p align="center">
-  📍 Mirpur, Dhaka, Bangladesh
-</p>
+</div>
 
 ---
 
-## 👨‍💻 About Me
+### `about/`
 
-I'm a final-year **Software Engineering student at Daffodil International University** with a growing focus on **full-stack web development**.
+I'm a Software Engineering student who prefers learning by actually building things.
 
-I enjoy building practical web applications and working across both frontend and backend technologies. Alongside web development, I'm exploring **Machine Learning** and strengthening my skills through hands-on projects.
+Most of my repositories started with a simple question:
 
-I'm open to **internship opportunities** and **project collaborations** where I can learn, contribute, and build useful software.
+> *"What happens if I try to build this myself?"*
 
----
+Right now, I'm spending most of my time around **web development, AI, data science, and software engineering research**.
 
-## 🚀 Current Activities
-
-- 🔭 Building and practicing **full-stack web development projects** while strengthening my frontend and backend development skills through hands-on experience.
-- 🌱 Learning **Backend Development, MongoDB, and Express.js** to expand my full-stack development capabilities.
-- 🤖 Exploring **Machine Learning** and its practical applications alongside web development.
+I don't know everything — that's kind of the point.
 
 ---
 
-# 🛠️ Skills & Technologies
+### `now/`
 
-## 💻 Languages
+```yaml
+learning:
+  - Next.js
+  - TypeScript
+  - modern web architecture
 
-<p align="left">
-  <img
-    src="https://skillicons.dev/icons?i=html,css,js,ts,python"
-    alt="HTML, CSS, JavaScript, TypeScript and Python"
-  />
-</p>
+building:
+  - full-stack web applications
+  - small experiments that usually become bigger experiments
 
-## ⚛️ Frontend
+researching:
+  - AI-generated code
+  - software complexity
+  - refactoring prediction
 
-<p align="left">
-  <img
-    src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,materialui"
-    alt="React, Next.js, Tailwind CSS, Bootstrap and Material UI"
-  />
-</p>
-
-<p align="left">
-  <img
-    src="https://img.shields.io/badge/DaisyUI-1AD1A5?style=for-the-badge&logo=daisyui&logoColor=white"
-    alt="DaisyUI"
-  />
-</p>
-
-## ⚙️ Backend & Database
-
-<p align="left">
-  <img
-    src="https://skillicons.dev/icons?i=nodejs,supabase,firebase,postgres,mysql"
-    alt="Node.js, Supabase, Firebase, PostgreSQL and MySQL"
-  />
-</p>
-
-<p align="left">
-  <img
-    src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"
-    alt="REST API"
-  />
-
-  <img
-    src="https://img.shields.io/badge/Authentication-4A154B?style=for-the-badge"
-    alt="Authentication"
-  />
-
-  <img
-    src="https://img.shields.io/badge/CRUD_Operations-2496ED?style=for-the-badge"
-    alt="CRUD Operations"
-  />
-</p>
-
-## 🛠️ Tools & Deployment
-
-<p align="left">
-  <img
-    src="https://skillicons.dev/icons?i=git,github,vscode,npm,vite,figma,vercel,netlify"
-    alt="Git, GitHub, VS Code, npm, Vite, Figma, Vercel and Netlify"
-  />
-</p>
+exploring:
+  - artificial intelligence
+  - data science
+  - machine learning
+```
 
 ---
 
-# 🚀 Featured Projects
+### `selected-work/`
 
-<table>
-<tr>
+#### 01 — DevStack
 
-<td width="50%" valign="top">
+A project I'm using to get more comfortable with **Next.js** and modern React development.
 
-### 🏋️ FitLog
+Instead of only following tutorials, I'm using it to experiment with routing, rendering, data fetching, loading states, and application structure.
 
-A responsive workout tracking application for exploring exercises, viewing workout details, creating personalized workout plans, saving exercises, and monitoring workout metrics.
-
-**Highlights**
-
-- 🏋️ Exercise library
-- 📋 Personalized workout planning
-- ❤️ Saved workouts
-- 📊 Live workout metrics
-- 🔀 Workout sorting
-- 🔔 Interactive notifications
-- 📱 Responsive dark interface
-
-**Tech Stack**
-
-`Next.js` `React` `TypeScript` `Tailwind CSS` `DaisyUI`
-
-<br>
-
-<a href="https://fitlog-eosin-kappa.vercel.app/">
-  🔗 Live Demo
-</a>
-&nbsp;•&nbsp;
-<a href="https://github.com/Ayman392/Fitlog">
-  📂 Repository
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🧱 Dev-Stack
-
-An interactive React application for exploring web-development technologies and creating a personalized development stack.
-
-**Highlights**
-
-- 🔍 Dynamic technology library
-- 🧰 Personalized stack builder
-- 🚫 Duplicate prevention
-- ➕ Add/remove technologies
-- 🔔 Toast notifications
-- 📱 Responsive interface
-- 📄 JSON-driven data
-
-**Tech Stack**
-
-`React` `TypeScript` `Vite` `Tailwind CSS` `DaisyUI`
-
-<br>
-
-<a href="https://devstack404.netlify.app/">
-  🔗 Live Demo
-</a>
-&nbsp;•&nbsp;
-<a href="https://github.com/Ayman392/Dev-Stack">
-  📂 Repository
-</a>
-
-</td>
-
-</tr>
-</table>
-
-### 🧠 CipherNet — Deep Learning Image Steganography
-
-A **team-developed deep learning image steganography application** that encrypts secret text using Fernet encryption and embeds the encrypted payload inside images using custom Keras encoder and decoder neural-network models.
-
-**Core Workflow**
-
-`Secret Text`
-→ `Fernet Encryption`
-→ `Binary Payload`
-→ `Neural Encoder`
-→ `Stego Image`
-
-`Stego Image`
-→ `Neural Decoder`
-→ `Binary Payload`
-→ `Fernet Decryption`
-→ `Original Text`
-
-**Tech Stack**
-
-`Python` `TensorFlow/Keras` `Fernet` `Laravel` `Tailwind CSS` `Vite`
-
-**Role:** Project Contributor
-
-<a href="https://github.com/Ayman392/Steganography">
-  📂 View Repository
-</a>
+`Next.js` · `React` · `TypeScript`
 
 ---
 
-# 🤝 Connect With Me
+#### 02 — Stego Web
 
-<p align="left">
+An experiment around hiding encrypted information inside images using deep learning.
 
-<a href="https://www.linkedin.com/in/aymannasir1/">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-Ayman%20Nasir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
-</a>
+The project combines a web application with a TensorFlow-based encoder/decoder pipeline — one of those projects that taught me considerably more once things started breaking.
 
-<a href="mailto:aymannasir101392@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Email"
-  />
-</a>
-
-<a href="https://discord.com/users/695926093982466089">
-  <img
-    src="https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord&logoColor=white"
-    alt="Discord"
-  />
-</a>
-
-</p>
+`Python` · `TensorFlow` · `Laravel` · `PHP`
 
 ---
 
-# 📊 GitHub Statistics
+#### 03 — Research
 
-<p align="center">
+**Predicting Refactoring Requirements of AI-Generated Code Using Software Complexity Metrics**
 
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ayman392&theme=tokyonight"
-    height="180"
-    alt="Ayman Nasir GitHub Stats"
-  />
+Currently exploring whether traditional software complexity metrics can help identify when AI-generated code may require refactoring.
 
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ayman392&theme=tokyonight"
-    height="180"
-    alt="Ayman Nasir Top Languages"
-  />
-
-</p>
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-  <img
-    src="https://streak-stats.demolab.com?user=Ayman392&theme=tokyonight&hide_border=true"
-    alt="Ayman Nasir GitHub Streak"
-  />
-
-</p>
-
-## 📈 Contribution Activity
-
-<p align="center">
-
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayman392&theme=tokyonight"
-    width="100%"
-    alt="Ayman Nasir GitHub Contribution Activity"
-  />
-
-</p>
+`Software Engineering` · `AI` · `Data Analysis`
 
 ---
 
-<p align="center">
+### `toolbox/`
 
-  <img
-    src="https://komarev.com/ghpvc/?username=Ayman392&label=Profile%20Views&color=0e75b6&style=flat"
-    alt="Ayman392 Profile Views"
-  />
+**Languages**
 
-</p>
+`JavaScript` &nbsp; `TypeScript` &nbsp; `Python` &nbsp; `PHP`
 
-<p align="center">
-  <b>Building for the Web • Exploring Machine Learning</b>
-</p>
+**Web**
+
+`React` &nbsp; `Next.js` &nbsp; `Tailwind CSS` &nbsp; `Laravel`
+
+**Data & AI**
+
+`TensorFlow` &nbsp; `Pandas` &nbsp; `NumPy`
+
+**Tools**
+
+`Git` &nbsp; `GitHub` &nbsp; `VS Code` &nbsp; `Supabase`
+
+---
+
+### `activity/`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ayman392&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent" alt="Ayman's GitHub statistics" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayman392&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
+
+</div>
+
+---
+
+### `contributions/`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayman392&hide_border=true&bg_color=00000000&color=8B949E&line=8B949E&point=8B949E" alt="Contribution activity graph" />
+
+</div>
+
+---
+
+### `find-me/`
+
+```text
+github    →  github.com/Ayman392
+```
+
+I like building things before I completely understand them.
+
+That's usually how I end up understanding them.
+
+---
+
+<div align="center">
+
+<sub>learning → building → breaking → fixing → repeat</sub>
+
+<br/><br/>
+
+<code>$ currently building...</code> <code>█</code>
+
+</div>
