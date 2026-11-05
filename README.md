@@ -45,7 +45,19 @@ I learn best when I have something real to build.
 
 ## `02 / selected projects`
 
-### `01.` FitLog
+### `01.` Oikyo
+
+**Bringing communities together around events that matter.**
+
+A full-stack social development events platform where people can discover events, join them, and manage their own, with a map on each event card.
+
+`Next.js` · `TypeScript` · `Express` · `MongoDB`
+
+[Live site](https://oikyo-psi.vercel.app) · [Client](https://github.com/Ayman392/Social-Development-Events-Platform_Client) · [Server](https://github.com/Ayman392/Oikyo-Social-Development-Events-Platform)
+
+<br>
+
+### `02.` FitLog
 
 **Fitness tracking, kept simple.**
 
@@ -55,7 +67,7 @@ A fitness-focused application built around making workout and activity tracking 
 
 <br>
 
-### `02.` DevStack
+### `03.` DevStack
 
 **Learning modern web development by building it.**
 
@@ -65,7 +77,7 @@ A practical project for exploring routing, rendering, data fetching, loading sta
 
 <br>
 
-### `03.` Stego Web
+### `04.` Stego Web
 
 **Hiding information where you wouldn't expect it.**
 
