@@ -17,6 +17,12 @@
 I learn best when I have something real to build.
 </sub>
 
+<br><br>
+
+<a href="https://www.linkedin.com/in/aymannasir1/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.facebook.com/ayman039"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" /></a>
+<a href="mailto:ayman1nasir@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
+
 </div>
 
 <br>
@@ -25,15 +31,13 @@ I learn best when I have something real to build.
 
 ## `01 / about`
 
-I'm a Software Engineering student interested in **modern web development, AI, data science, and building practical software**.
-
-Most of what I know came from trying to build something before I knew exactly how to build it.
-
-```text
-currently  →  Next.js · TypeScript · Modern Web Development
-building   →  FitLog · DevStack · experiments
-exploring  →  AI · Data Science · Machine Learning
-```
+👋 Hi, I'm Ayman, a Software Engineering student from Dhaka, Bangladesh<br>
+🔭 I'm currently working on Oikyo 🤝, an events platform, and FitLog 💪, a workout tracking app<br>
+👯 I'm looking to collaborate on open-source web projects with Next.js, React, and TypeScript<br>
+🤝 I'm looking for help with learning AI and machine learning<br>
+🌱 I'm currently learning Express.js for backend development, alongside Next.js and TypeScript<br>
+💬 Ask me about web development, building projects as a student, and image steganography<br>
+⚡ Fun fact: I learn best when I build something before I fully know how to build it
 
 <br>
 
@@ -78,7 +82,7 @@ An image-steganography experiment combining encrypted information with a deep-le
 <div align="center">
 
 <img
-  src="https://skillicons.dev/icons?i=js,ts,python,php,react,nextjs,tailwind,laravel,tensorflow,git,github,vscode,supabase&perline=13&theme=dark"
+  src="https://skillicons.dev/icons?i=html,css,js,ts,python,php,react,nextjs,nodejs,express,tailwind,laravel,mongodb,supabase,firebase,tensorflow,fastapi,figma,git,github,vscode,vercel,netlify&perline=12&theme=dark"
   alt="Tools and technologies"
 />
 
@@ -95,6 +99,19 @@ An image-steganography experiment combining encrypted information with a deep-le
 <img
   src="https://raw.githubusercontent.com/Ayman392/Ayman392/output/github-contribution-grid-snake-dark.svg"
   alt="Ayman's animated contribution snake"
+/>
+
+<br><br>
+
+<img
+  height="170"
+  src="https://github-readme-stats.shion.dev/api?username=Ayman392&theme=dark&hide_border=true&include_all_commits=true&count_private=true"
+  alt="GitHub stats"
+/>
+<img
+  height="170"
+  src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ayman392&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
+  alt="Top languages"
 />
 
 </div>
