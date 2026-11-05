@@ -6,7 +6,7 @@
 
 # Ayman Nasir
 
-### `Software Engineering Student · Developer`
+### `Software Engineering Student · Full Stack Developer`
 
 <img
   src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=900&color=8B949E&center=true&vCenter=true&repeat=true&width=650&height=45&lines=%24+building+with+Next.js...;%24+learning+TypeScript...;%24+exploring+AI+%26+Data+Science...;%24+turning+ideas+into+working+projects..."
