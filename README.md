@@ -53,8 +53,6 @@ A full-stack social development events platform where people can discover events
 
 `Next.js` · `TypeScript` · `Express` · `MongoDB`
 
-[Live site](https://oikyo-psi.vercel.app) · [Client](https://github.com/Ayman392/Social-Development-Events-Platform_Client) · [Server](https://github.com/Ayman392/Oikyo-Social-Development-Events-Platform)
-
 <br>
 
 ### `02.` FitLog
